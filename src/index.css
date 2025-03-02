@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+body{
+  background-image: url('https://academics.winona.edu/povwinona/wp-content/uploads/sites/4/2023/09/collage.jpg');
+  background-position: center;
+  background-attachment: fixed;
+}
